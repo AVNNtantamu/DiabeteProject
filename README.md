@@ -1,2 +1,2 @@
 # DiabeteProject
-Sistema de controle e agendamento dos diabeticos de Angola
+Sistema de controle e agendamento de consultas dos diabeticos de 
